@@ -2,6 +2,14 @@
 
 This is a collection of useful tools I liked for windows10.
 
+### PowerToys
+> **[PowerToys](https://github.com/microsoft/PowerToys)**
+>
+> **PowerToys** is an open source program made by microsoft. Including remap keys、file preview in explore、color picker、image resize、file search and so on.
+> 
+> Its powerful and helps a lot.
+> MICROSOFT YES
+
 ### Keyboard Remapping
 
 > **[Key Manager](https://atnsoft.com/keymanager/)**
