@@ -4,7 +4,7 @@ This is a collection of useful tools I liked for windows10.
 
 ### Universal Tool Box
 
-> [PowerToys](https://github.com/microsoft/PowerToys)
+> **[PowerToys](https://github.com/microsoft/PowerToys/releases/tag/v0.25.0)**
 >
 > Microsoft PowerToys is a set of utilities for power users to tune and streamline their Windows experience for greater productivity. Inspired by the [Windows 95 era PowerToys project](https://en.wikipedia.org/wiki/Microsoft_PowerToys), this reboot provides power users with ways to squeeze more efficiency out of the Windows 10 shell and customize it for individual workflows. A great overview of the Windows 95 PowerToys can be found [here](https://socket3.wordpress.com/2016/10/22/using-windows-95-powertoys/).
 
@@ -24,12 +24,12 @@ This is a collection of useful tools I liked for windows10.
 
 ### File Explorer
 
-> [Everything](https://www.voidtools.com/)
+> **[Everything](https://www.voidtools.com/)**
 >
 > Locate files and folders by name instantly.
 
 ### Others
 
-> [peazip](https://peazip.github.io/peazip-64bit.html)
+> **[peazip](https://peazip.github.io/peazip-64bit.html)**
 >
 > PeaZip is a free file archiving application (file compression, rar opener,...), cross-platform Open Source free alternative to WinRar, WinZip and similar software for Windows & Linux.
